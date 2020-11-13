@@ -1,0 +1,2 @@
+# ignore jupyter notebook service directory
+/.ipynb_checkpoints
